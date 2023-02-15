@@ -25,3 +25,12 @@ build:
 
 sphinx:
   fail_on_warning: true
+
+
+#The following lines is to enable PDF and EPUB downloadable versions so that the user can read the documentation offline. 
+sphinx:
+  fail_on_warning: true
+
+formats:
+  - pdf
+  - epub
