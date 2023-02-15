@@ -1,17 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to WCMC's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**The UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)** is a global centre of excellence on biodiversity and nature’s contribution to society and the economy.  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+We work at the interface of science, policy, and practice to tackle the global crisis facing nature and support the transition to a sustainable future for people and the planet. 
 
-.. note::
+READ MORE ABOUT US:
+-------------------
+Click on this link to learn more about us and the impact we have around the world <https://www.unep-wcmc.org/en/>`_
 
-   This project is under active development.
+
 
 Contents
 --------
