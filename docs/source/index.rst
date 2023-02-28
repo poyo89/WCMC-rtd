@@ -15,6 +15,6 @@ Contents
 --------
 
 .. toctree::
-
+   Georeferencing
    usage
    api
